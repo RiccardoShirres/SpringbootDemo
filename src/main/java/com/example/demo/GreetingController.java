@@ -9,6 +9,6 @@ public class GreetingController
     @RequestMapping("/status")
     public String getGreeting()
     {
-        return "Success!";
+        return "Success! Beyond Success";
     }
 }
